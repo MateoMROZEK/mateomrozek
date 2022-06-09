@@ -6,7 +6,7 @@ I'm Matéo, I'm 21 years old, I'm a developer as well as a student as a Site Man
 
   - Web Development :
     - [Razicord](https://razicord.com), a platform to reference your discord servers and bots.
-    - [Razicord](https://dev-time.eu), is a site where you can find HTML templates.
+    - [Dev-Time](https://dev-time.eu), is a site where you can find HTML templates.
     
   - Discord Development :
     - The Razicord bot, which offers the services of the razicord.com website
