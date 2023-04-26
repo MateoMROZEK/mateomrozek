@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matéo, I'm 25 years old, I'm a developer as well as a student as a Site Manager.
+I'm Matéo, I'm 22 years old, I'm a developer as well as a student as a Site Manager.
 
 - 🔭 I am currently working on the projects:
 
