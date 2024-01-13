@@ -1,18 +1,38 @@
-### Hi there 👋
 
-I'm Matéo, I'm 22 years old, I'm a developer as well as a student as a Site Manager.
+# Hello, World! 👋
 
-- 🔭 I am currently working on the projects:
+I'm Mateo, a passionate for the web development from France.
 
-  - Web Development :
-    - [Cybricode](https://cybricode.com).
-    - [DriveLine](https://dll.cybrico.de)
-    
-  - Discord Development :
-    - The Cybricode bot, which offers the services of the dev-time.eu website
+## 🔧 Technologies & Tools
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=devkiliozofficiel&locale=en&theme=onedark&show_icons=true&border_radius=15) ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devkiliozofficiel&locate=fr&custom_title=Languages&theme=onedark&border_radius=15)
+[SOON]
 
-# Skills
-![Skills](https://skillicons.dev/icons?i=atom,autocad,bash,bootstrap,cloudflare,discord,bots,electron,figma,github,html,js,css,linkedin,linux,mysql,nodejs,ps,postman,twitter&theme=dark&perline=5)
+## 💬 Ask me about
 
+I am thrilled to share that I have been working as a web developer since November 2013 and have been involved in numerous professional and personal projects.
+
+My expertise lies in developing websites using HTML, CSS, PHP, JavaScript, and TypeScript programming languages with confidence and ease! 
+
+You can connect with me on various networks such as Twitter, Threads, or Discord!
+
+share with you my past and current projects:
+
+- Current :
+  - Lycée Irene Joliot-Curie
+
+- Previous:
+  - GTAcityRP FiveM by Youtuber Garryschool (+1M subscribers) in 2023
+  - Elkir Association (2020-2023)
+  - Giorgi Parcs & Jardin" company (2021)
+  - Badblock Company (2017-2020)
+
+## ⚡ Fun fact
+<a href="https://oghub.fr">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=35" />
+</a>
+<a href="https://oghub.fr">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=35&layout=compact" />
+</a>
+<a href="https://oghub.fr">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=35" />
+</a>
