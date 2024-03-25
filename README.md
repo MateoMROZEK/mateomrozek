@@ -18,6 +18,7 @@ You can connect with me on various networks such as Twitter, Threads, or Discord
 share with you my past and current projects:
 
 - Current :
+  - OGHub.fr | Personal project 
   - Lycée Irene Joliot-Curie
 
 - Previous:
