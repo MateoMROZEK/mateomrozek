@@ -29,11 +29,11 @@ share with you my past and current projects:
 
 ## ⚡ Fun fact
 <a href="https://oghub.fr">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=35" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=35" />
 </a>
 <a href="https://oghub.fr">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=25&layout=compact" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=25&layout=compact" />
 </a>
 <a href="https://oghub.fr">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=25" />
+  <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=25" />
 </a>
