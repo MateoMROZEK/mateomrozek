@@ -65,6 +65,6 @@ share with you my past and current projects:
 ## ⚡ Fun fact
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MateoMROZEK&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=35" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MateoMROZEK&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=25" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevKilioZOfficiel&show_icons=true&icon_color=7e2e2a&title_color=33201f&text_color=FFFFFF&bg_color=deg,7e2e2a,df2920&hide_border=true&border_radius=25" />
 </div>
 
