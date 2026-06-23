@@ -53,14 +53,14 @@ You can connect with me on various networks such as Twitter, Threads, or Discord
 share with you my past and current projects:
 
 - Current :
-  - OGHub.fr | Personal project 
-  - Lycée Irene Joliot-Curie
+  - OGHub.fr | Personal project
 
 - Previous:
   - GTAcityRP FiveM by Youtuber Garryschool (+1M subscribers) in 2023
   - Elkir Association (2020-2023)
   - Giorgi Parcs & Jardin" company (2021)
   - Badblock Company (2017-2020)
+  - Lycée Irene Joliot-Curie (2023-2026)
 
 ## ⚡ Fun fact
 <div align="center">
